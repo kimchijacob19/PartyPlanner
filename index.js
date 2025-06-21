@@ -1,5 +1,5 @@
 const API_BASE = "https://fsa-crud-2aa9294fe819.herokuapp.com/api";
-const COHORT = "COHORT-NAME"; // Replace with actual cohort name
+const COHORT = "/2109-CPU-RM-WEB-PT";
 const EVENTS_URL = `${API_BASE}/${COHORT}/events`;
 const RSVPS_URL = `${API_BASE}/${COHORT}/rsvps`;
 const GUESTS_URL = `${API_BASE}/${COHORT}/guests`;
